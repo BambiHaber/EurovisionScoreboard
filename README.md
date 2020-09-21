@@ -1,3 +1,9 @@
+# Eurovision Scoreboard
+Missing the Eurovision? here's a little reminder...  
+![Image of Scoreboard](https://github.com/BambiHaber/EurovisionScoreboard/Sample.png)
+#
+#
+#
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

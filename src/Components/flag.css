@@ -1,0 +1,52 @@
+h1,
+.semiFinal-container {
+  width: 80%;
+  font-family: Montserrat;
+  font-weight: 200;
+  margin: 0 auto;
+}
+h1 {
+  margin-top: 30px;
+}
+.tableContainer {
+  columns: 2;
+}
+.tritableContainer {
+  columns: 3;
+  padding-bottom: 50px;
+  border-bottom: 3px solid #346f82;
+}
+.votingCountries {
+  margin-top: 50px;
+  font-family: Montserrat;
+  font-weight: 100;
+}
+.flag {
+  color: white;
+  background: linear-gradient(to right, #2b60d1 24%, #2b60d1 24%, #60abf8 84%, #4582c1 100%);
+  display: grid;
+  grid-template-columns: 57px 220px;
+  align-items: center;
+  grid-gap: 9px;
+  margin: 1px;
+  padding: 1px;
+  border-radius: 3px;
+  background-size: 400% 400%;
+  animation: gradient 30s ease infinite;
+}
+.flag img {
+  height: 30px;
+  border-radius: 3px;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+/*# sourceMappingURL=flag.css.map */

@@ -1,0 +1,128 @@
+export const semifinal1 =  [{
+    "img": "au.png",
+    "name": "Australia"
+}, {
+    "img": "by.png",
+    "name": "Belarus"
+}, {
+    "img": "be.png",
+    "name": "Belgium"
+}, {
+    "img": "ie.png",
+    "name": "Ireland"
+}, {
+    "img": "lt.png",
+    "name": "Lithuania"
+}, {
+    "img": "mk.png",
+    "name": "North Macedonia"
+}, {
+    "img": "ru.png",
+    "name": "Russia"
+}, {
+    "img": "si.png",
+    "name": "Slovenia"
+}, {
+    "img": "se.png",
+    "name": "Sweden"
+}, {
+    "img": "az.png",
+    "name": "Azerbaijan"
+}, {
+    "img": "hr.png",
+    "name": "Croatia"
+}, {
+    "img": "cy.png",
+    "name": "Cyprus"
+}, {
+    "img": "il.png",
+    "name": "Israel"
+}, {
+    "img": "mt.png",
+    "name": "Malta"
+}, {
+    "img": "no.png",
+    "name": "Norway"
+}, {
+    "img": "ro.png",
+    "name": "Romania"
+}, {
+    "img": "ua.png",
+    "name": "Ukraine"
+}, {
+    "img": "nl.png",
+    "name": "Netherlands",
+    "isVoter":true
+}, {
+    "img": "de.png",
+    "name": "Germany",
+    "isVoter":true
+}, {
+    "img": "it.png",
+    "name": "Italy",
+    "isVoter":true
+}, {
+    "img": "at.png",
+    "name": "Austria"
+}, {
+    "img": "cz.png",
+    "name": "Czech Republic"
+}, {
+    "img": "ee.png",
+    "name": "Estonia"
+}, {
+    "img": "gr.png",
+    "name": "Greece"
+}, {
+    "img": "is.png",
+    "name": "Iceland"
+}, {
+    "img": "md.png",
+    "name": "Moldova"
+}, {
+    "img": "pl.png",
+    "name": "Poland"
+}, {
+    "img": "sm.png",
+    "name": "San Marino"
+}, {
+    "img": "rs.png",
+    "name": "Serbia"
+}, {
+    "img": "al.png",
+    "name": "Albania"
+}, {
+    "img": "am.png",
+    "name": "Armenia"
+}, {
+    "img": "bg.png",
+    "name": "Bulgaria"
+}, {
+    "img": "dk.png",
+    "name": "Denmark"
+}, {
+    "img": "fi.png",
+    "name": "Finland"
+}, {
+    "img": "ge.png",
+    "name": "Georgia"
+}, {
+    "img": "lv.png",
+    "name": "Latvia"
+}, {
+    "img": "pt.png",
+    "name": "Portugal"
+}, {
+    "img": "ch.png",
+    "name": "Switzerland"
+}, {
+    "img": "fr.png",
+    "name": "France"
+}, {
+    "img": "es.png",
+    "name": "Spain"
+}, {
+    "img": "United Kingdom.png",
+    "name": "United Kingdom"
+}]
+
